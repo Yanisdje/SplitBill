@@ -1,3 +1,7 @@
+![image](https://github.com/Yanisdje/SplitBill/assets/64096824/49e9ff83-5839-4966-b881-e2b3116e366d)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
